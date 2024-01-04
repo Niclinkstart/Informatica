@@ -1,0 +1,11 @@
+Python es un lenguaje de alto nivel
+tipado dinamico y fuerte
+es multiparadigma funciona en windows, linux, os
+Multiparadigma
+Puede utilizarse para programar lo que sea.
+Tiene una extensa comunidad de desarrolladores.
+Open source
+facil de aprender
+
+Para descargarlo es ir a tu buscador poner descargar python
+Dar click en add to path para darle permisos para descargar futuramente librerias.
